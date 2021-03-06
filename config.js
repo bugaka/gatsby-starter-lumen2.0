@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'JEBE MAJKE',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -12,20 +12,20 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Chlanci',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'O meni',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Grad je Nash',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'MAjke jebe',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
